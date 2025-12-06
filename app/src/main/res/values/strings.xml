@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kanhero</string>
+    
+    <!-- Board List Screen -->
+    <string name="my_boards">My Boards</string>
+    <string name="create_board">Create Board</string>
+    <string name="board_limit_reached">Free Tier: 3 Boards Max</string>
+    <string name="unlock_unlimited">Unlock Unlimited Boards</string>
+    
+    <!-- Board Screen -->
+    <string name="todo">TO DO</string>
+    <string name="doing">DOING</string>
+    <string name="done">DONE</string>
+    <string name="add_card">Add Card</string>
+    <string name="delete_board">Delete Board</string>
+    
+    <!-- Card Actions -->
+    <string name="edit_card">Edit Card</string>
+    <string name="delete_card">Delete Card</string>
+    <string name="card_text">Card Text</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="appearance">Appearance</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="dark_mode_description">Switch to dark theme</string>
+    <string name="haptics">Haptics</string>
+    <string name="sounds">Sounds</string>
+    <string name="animations">Animations</string>
+    <string name="about">About</string>
+    
+    <!-- Billing -->
+    <string name="purchase_title">Unlock Unlimited Boards</string>
+    <string name="purchase_description">One-time payment for lifetime access</string>
+    <string name="purchase_price">$10.00</string>
+    <string name="purchase_success">Purchase successful!</string>
+    <string name="purchase_error">Purchase failed. Please try again.</string>
+    <string name="restore_purchases">Restore Purchases</string>
+    
+    <!-- Dialogs -->
+    <string name="confirm_delete_board">Delete this board?</string>
+    <string name="confirm_delete_card">Delete this card?</string>
+    <string name="delete">Delete</string>
+    
+    <!-- Empty States -->
+    <string name="no_boards">No boards yet. Create your first one!</string>
+    <string name="no_cards">No cards yet. Tap + to add one.</string>
+</resources>
+

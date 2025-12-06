@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- K letter for Kanhero -->
+    <group
+        android:translateX="27"
+        android:translateY="27">
+        
+        <!-- Background circle -->
+        <path
+            android:pathData="M27,0C41.912,0 54,12.088 54,27C54,41.912 41.912,54 27,54C12.088,54 0,41.912 0,27C0,12.088 12.088,0 27,0Z"
+            android:fillColor="#FFFFFF"/>
+        
+        <!-- K shape - vertical bar -->
+        <path
+            android:pathData="M18,12L24,12L24,42L18,42Z"
+            android:fillColor="#6650a4"/>
+        
+        <!-- K shape - upper diagonal -->
+        <path
+            android:pathData="M24,27L36,12L44,12L30,27Z"
+            android:fillColor="#6650a4"/>
+        
+        <!-- K shape - lower diagonal -->
+        <path
+            android:pathData="M24,27L30,27L44,42L36,42Z"
+            android:fillColor="#6650a4"/>
+        
+        <!-- Kanban card 1 (small) -->
+        <path
+            android:pathData="M38,16L48,16L48,22L38,22Z"
+            android:fillColor="#7D5260"
+            android:strokeWidth="0"/>
+        
+        <!-- Kanban card 2 (small) -->
+        <path
+            android:pathData="M38,32L48,32L48,38L38,38Z"
+            android:fillColor="#625B71"
+            android:strokeWidth="0"/>
+    </group>
+</vector>
+
+

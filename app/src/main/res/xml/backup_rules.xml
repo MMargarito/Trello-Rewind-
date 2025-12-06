@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Backup rules for Kanhero app
+    Includes user preferences and database for backup to Google Drive
+-->
+<full-backup-content>
+    <!-- Include shared preferences (theme settings, etc.) -->
+    <include domain="sharedpref" path="." />
+    
+    <!-- Include database -->
+    <include domain="database" path="." />
+</full-backup-content>
+
